@@ -15,9 +15,14 @@ run this:
 - yarn dev
 
 ## my-first-site dir
+using YEOMAN
 run this:
 - cd my-first-site
 - node keystone.js
 - Admin email : user@keystonejs.com
 - Admin password : admin
-
+### Reference
+-https://www.keystonejs.com/
+- https://www.mongodb.com/
+- https://nodejs.org/ko/
+- https://yeoman.io/
