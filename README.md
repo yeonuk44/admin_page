@@ -14,4 +14,10 @@ run this:
 - cd my-app
 - yarn dev
 
+## my-first-site dir
+run this:
+- cd my-first-site
+- node keystone.js
+- Admin email : user@keystonejs.com
+- Admin password : admin
 
